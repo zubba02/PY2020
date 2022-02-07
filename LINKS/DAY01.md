@@ -1,6 +1,6 @@
-## DAY01 : Introduction to the course : 
+# DAY01 : Introduction : 
 
-# Objectives
+## Objectives
 
 - Create a google colab account. 
 - Get familiar with the colab environment
