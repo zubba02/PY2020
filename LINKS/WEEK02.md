@@ -2,4 +2,12 @@
 
 This week we will be going through some python fundamentals. We will follow the Softwarecaprpentry tutorial [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/index.html).   
 
+Before we begin the tutorial, we need to upload some required files to google colab. To do this :
 
+- Download the [data]https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) and [code](https://swcarpentry.github.io/python-novice-inflammation/code/python-novice-inflammation-code.zip) file from github.
+- Unzip and upload the files to your google drive account. Preferably make a new folder with your choice of name and place the files in the folder. 
+- Access the files through the google drive to confirm that it is working. The instructions to access the files via google drive is as below :
+
+'''from google.colab import drive
+
+drive.mount('/content/drive')''' 
