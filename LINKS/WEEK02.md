@@ -11,3 +11,7 @@ Before we begin the tutorial, we need to upload some required files to google co
 '''from google.colab import drive
 
 drive.mount('/content/drive')''' 
+
+
+
+https://drive.google.com/drive/folders/15Gg57JFv9D0cHe2iSe64VhAskdqnIhIU?usp=sharing
